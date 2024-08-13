@@ -5,7 +5,7 @@ In this project I configure four virtual machines (VMs)- a Windows Domain Contro
 
 The initial setup of this project is created by MyDFIR on YouTube. He does some attacks on the machines to prove the setup works, but I will be doing different attacks. The attacks I have chosen have the atomics of T1078.003, T1087.001, and T1021.001. In order, these attacks create a valid local account with admin privileges, discover/enumerate all valid local accounts, then use remote desktop protocol (RDP) with valid accounts to manipulate the machine into logging the attacker in.
 
-In my documentation for this project, I genuinely tried to use Splunk Search Processing Language (SPL) to refine the queries to only show the adversarial telemetry. In some instances it was not completely possible, but I did not simply block RDP for instance to "solve" the problem. The same goes for some of the attacks done by ATR are blocked by Windows Firewall/Defense, but I did not disable the firewall due to it not being a practical solution. 
+In my documentation for this project, I genuinely tried to use Splunk Search Processing Language (SPL) to refine the queries to only show the adversarial telemetry. In some instances it was not completely possible, but I did not simply block RDP for instance to "solve" the problem. The same goes for some of the attacks done by ART are blocked by Windows Firewall/Defense, but I did not disable the firewall due to it not being a practical solution. 
 
 Below is the documentation for this project. It is not necessairly a step-by-step process in how the whole project was completed, but more of an overview of how I was able to generate the telemetry and create alerts/dashboards for the attacks.
 
