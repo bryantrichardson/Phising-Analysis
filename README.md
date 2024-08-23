@@ -5,6 +5,18 @@ In this "project" I will be looking at three emails to determine if they are a p
 
 Below I will provide screenshots of the process I take to analyze each email. It will not be a complete step-by-step guide, but will cover the most important parts of each. I will include links to each of the three templates at the very end in case you want to see the reports in their entirety.
 
-Thanks for clicking on this/reading, hope the rest of your day/night is swell :).
+Thanks for clicking on this/reading, hope the rest of your day/night is swell :).<br>
+
+(For transparency, this Ubuntu setup and phishing challenges/analysis is apart of TCM-Security SOC 101 course)
+
+## Tools Used
+* **Sublime Text**
+* **VirusTotal**
+* **CyberChef**
+* **Whois.domaintools**
+* **Cisco Talos**
+
+## Environments Used
+* **Ubuntu VM**
 
 ## Screenshots
