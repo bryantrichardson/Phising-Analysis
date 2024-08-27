@@ -7,7 +7,7 @@ Below I will provide screenshots of the process I take to analyze each email. It
 
 Thanks for clicking on this/reading, hope the rest of your day/night is swell :).<br>
 
-(For transparency, this Ubuntu setup and phishing challenges/analysis is apart of TCM-Security SOC 101 course.)
+(For transparency, this Ubuntu setup and phishing challenges/analysis is apart of <a href="https://academy.tcm-sec.com/p/security-operations-soc-101">TCM-Security SOC 101 course</a>.)
 
 ## Tools Used
 * **Sublime Text**
