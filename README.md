@@ -7,14 +7,14 @@ Below I will provide screenshots of the process I take to analyze each email. It
 
 Thanks for clicking on this/reading, hope the rest of your day/night is swell :).<br>
 
-(For transparency, this Ubuntu setup and phishing challenges/analysis is apart of <a href="https://academy.tcm-sec.com/p/security-operations-soc-101">TCM-Security SOC 101 course</a>.)
+(For transparency, this Ubuntu setup and phishing challenge/analysis is apart of <a href="https://academy.tcm-sec.com/p/security-operations-soc-101">TCM-Security SOC 101 course</a>. Only the first phishing analysis report is based on a challenge from the SOC101 course- the others are emails I have chosen from PhishTank.)
 
 ## Tools Used
 * **Sublime Text**
 * **VirusTotal**
 * **CyberChef**
 * **Whois.domaintools**
-* **Cisco Talos**
+* **PhishTank**
 
 ## Environments Used
 * **Ubuntu VM**
