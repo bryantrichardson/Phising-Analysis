@@ -21,4 +21,4 @@ Thanks for clicking on this/reading, hope the rest of your day/night is swell :)
 
 ## Screenshots
 
-img src = "C:\Users\scahttt\Desktop\pa challenge 1.png"
+<a href = "https://docs.google.com/document/d/1FZ4xxC2dx5IeCjiNkL6fRfbHLXLPs7YCtRjn2wFwrOM/edit"> This is an image </a>
