@@ -21,4 +21,5 @@ Thanks for clicking on this/reading, hope the rest of your day/night is swell :)
 
 ## Screenshots
 
-<img src = "https://docs.google.com/document/d/1FZ4xxC2dx5IeCjiNkL6fRfbHLXLPs7YCtRjn2wFwrOM/edit">
+![pa challenge 1](https://github.com/user-attachments/assets/119d8696-ef24-478e-9ba5-23c87abb5269)
+
