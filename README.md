@@ -21,4 +21,4 @@ Thanks for clicking on this/reading, hope the rest of your day/night is swell :)
 
 ## Screenshots
 
-"C:\Users\scahttt\Desktop\pa challenge 1.png"
+img src = "C:\Users\scahttt\Desktop\pa challenge 1.png"
