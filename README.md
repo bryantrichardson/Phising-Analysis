@@ -28,6 +28,9 @@ Pictured in the screenshot below is the email pulled up in Sublime Text. It has 
 <br>
 The whois.domain screenshot below is the search of the sender's IP previously noted down from the Sublime Text screenshot. The IP is a Microsoft IP based out of the Netherlands, so it appears to make sense in regards to emailing about an Outlook account. Further investigation into the defanged link is needed though.<br>
 <img width="600" alt="pa-challenge-domaintools" src="https://github.com/user-attachments/assets/23b5a05c-7540-41a4-af44-2410cc44966e">
+<br>
+Something goes here 
+<br>
 <img width="600" alt="pa-challenge-virustotal" src="https://github.com/user-attachments/assets/49930dde-be68-4584-a178-d92274e58cc6">
 <img width="600" alt="pa-challenge-urlscan" src="https://github.com/user-attachments/assets/126375d1-05ac-4d89-808e-bf4d31cf6c0f">
 
