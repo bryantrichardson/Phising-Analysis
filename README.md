@@ -20,6 +20,7 @@ Thanks for clicking on this/reading, hope the rest of your day/night is swell :)
 * **Ubuntu VM**
 
 ## Screenshots
-<img width="1200" alt="pa-challenge-1" src="https://github.com/user-attachments/assets/119d8696-ef24-478e-9ba5-23c87abb5269">
 <img width="600" alt="pa-challenge-2" src="https://github.com/user-attachments/assets/e879fe90-dace-4919-bb32-f57b3fc10bbb">
+<img width="1200" alt="pa-challenge-1" src="https://github.com/user-attachments/assets/119d8696-ef24-478e-9ba5-23c87abb5269">
+
 
