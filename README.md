@@ -23,7 +23,7 @@ Thanks for clicking on this/reading, hope the rest of your day/night is swell :)
 Below is a screenshot of the email in Thunderbird. It is important to note the claims of urgency with the red/bold text of "in case of ignorance, your services will be completely suspended in 24 hours according to the terms defined in our contracts." Another key detail to note is the defanged link of "hxxps[://]0[.]232[.]205[.]92[.]host[.]secureserver[.]net/lclbluewin08812/" whenever you hover your mouse over the blue text of "login to your Microsoft account." <br>
 <img width="600" alt="pa-challenge-2" src="https://github.com/user-attachments/assets/e879fe90-dace-4919-bb32-f57b3fc10bbb">
 <br> 
-Some text will go here?
+Pictured in the screenshot below is the email pulled up in Sublime Text. It has all the relevant headers as well as x-headers such as "X-Sender-IP". This header is a key one to note down so I can later use whois.domaintools to figure out more about this IP. Another relevant header is the 
 <img width="1200" alt="pa-challenge-1" src="https://github.com/user-attachments/assets/119d8696-ef24-478e-9ba5-23c87abb5269">
 <img width="600" alt="pa-challenge-domaintools" src="https://github.com/user-attachments/assets/23b5a05c-7540-41a4-af44-2410cc44966e">
 <img width="600" alt="pa-challenge-virustotal" src="https://github.com/user-attachments/assets/49930dde-be68-4584-a178-d92274e58cc6">
