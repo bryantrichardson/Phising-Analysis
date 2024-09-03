@@ -35,7 +35,7 @@ The two screenshots below are regarding the defanged url from above being put in
 <img width="600" alt="pa-challenge-urlscan" src="https://github.com/user-attachments/assets/126375d1-05ac-4d89-808e-bf4d31cf6c0f"><br>
 
 ## Reports
-* <a href="https://docs.google.com/document/d/1Kml8LcMpSTAxR9_Y4GtJFYlPo5lFweDeqgi1Cjr3L0A/edit"**First Report** (TCM Challenge)</a>
+* <a href="https://docs.google.com/document/d/1Kml8LcMpSTAxR9_Y4GtJFYlPo5lFweDeqgi1Cjr3L0A/edit">**First Report** (TCM Challenge)</a>
 * **Second Report** (PhishTank)
 * **Third Report** (PhishTank)
 
