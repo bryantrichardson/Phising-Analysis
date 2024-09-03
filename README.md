@@ -25,9 +25,9 @@ Below is a screenshot of the email in Thunderbird. It is important to note the c
 <br> 
 Pictured in the screenshot below is the email pulled up in Sublime Text. It has all the relevant headers as well as x-headers such as "X-Sender-IP". This header is a key one to note down so I can later use whois.domaintools to figure out more about this IP. Another relevant header is the Content-Transfer-Encoding header that denotes this email uses base64 for the message. Using CyberChef, we could have decoded this email's message and found that same defanged link from above referencing the "login to your Microsoft account" link. <br>
 <img width="1200" alt="pa-challenge-1" src="https://github.com/user-attachments/assets/119d8696-ef24-478e-9ba5-23c87abb5269">
-<br>
-Something goes here?
 <img width="600" alt="pa-challenge-domaintools" src="https://github.com/user-attachments/assets/23b5a05c-7540-41a4-af44-2410cc44966e">
+<br> 
+Something goes here?
 <img width="600" alt="pa-challenge-virustotal" src="https://github.com/user-attachments/assets/49930dde-be68-4584-a178-d92274e58cc6">
 <img width="600" alt="pa-challenge-urlscan" src="https://github.com/user-attachments/assets/126375d1-05ac-4d89-808e-bf4d31cf6c0f">
 
