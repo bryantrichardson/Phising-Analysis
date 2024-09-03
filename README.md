@@ -29,9 +29,14 @@ Pictured in the screenshot below is the email pulled up in Sublime Text. It has 
 The whois.domain screenshot below is the search of the sender's IP previously noted down from the Sublime Text screenshot. The IP is a Microsoft IP based out of the Netherlands, so it appears to make sense in regards to emailing about an Outlook account. Further investigation into the defanged link is needed though.<br>
 <img width="600" alt="pa-challenge-domaintools" src="https://github.com/user-attachments/assets/23b5a05c-7540-41a4-af44-2410cc44966e">
 <br>
-Something goes here 
+The two screenshots below are regarding the defanged url from above being put into VirusTotal (first screenshot) and urlscan.io (second screenshot). VirusTotal had 3 vendors flag it for phishing. Only 18 of the vendors had reviewed it, so a pretty alarming notice. The interesting thing about urlscan.io's screenshot is the fact that this url is based out of Germany. There very well could be an explanation for this, but considering the .edu sender email is originating from a university in Egypt, the domain lookup on the sender's IP goes to a Netherlands host, and this url being out of Germany does not instill any faith in this email being an actual legit email. I would agree with the three vendors on VirusTotal and agree this email as a whole is a phishing attempt.
 <br>
 <img width="600" alt="pa-challenge-virustotal" src="https://github.com/user-attachments/assets/49930dde-be68-4584-a178-d92274e58cc6">
-<img width="600" alt="pa-challenge-urlscan" src="https://github.com/user-attachments/assets/126375d1-05ac-4d89-808e-bf4d31cf6c0f">
+<img width="600" alt="pa-challenge-urlscan" src="https://github.com/user-attachments/assets/126375d1-05ac-4d89-808e-bf4d31cf6c0f"><br>
+
+## Reports
+* **First Report** (TCM Challenge)
+* **Second Report** (PhishTank)
+* **Third Report** (PhishTank)
 
 
