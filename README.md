@@ -1,13 +1,13 @@
 # Phising Analysis
 
 ## Description
-In this blog post, I will be looking at three emails to determine if they are a phishing attempt or not. I will accomplish this by using an Ubuntu VM I configured and looking at the emails in Sublime Text. I will also be using open source sites such as VirusTotal, CyberChef, and whois.domaintools. I will document my analysis using this <a href="https://docs.google.com/document/d/1x6iyFD8RMnvcib08EjNJcqGKYUyPSI5aYdJ1Nq38E6g/edit">template.</a><br>
+In this blog post, I will be looking at an email to determine if it is a phishing attempt or not. I will accomplish this by using an Ubuntu VM I configured and looking at the email in Sublime Text. I will also be using open source sites such as VirusTotal, CyberChef, and whois.domaintools. I will document my analysis using this <a href="https://docs.google.com/document/d/1x6iyFD8RMnvcib08EjNJcqGKYUyPSI5aYdJ1Nq38E6g/edit">template.</a><br>
 
-Below I will provide screenshots of the process I take to analyze each email. It will not be a complete step-by-step guide, but will cover the most important parts of the analysis. I will include links to each of the three templates at the very end in case you want to see the reports in their entirety.
+Below I will provide screenshots of the process I take to analyze the email. It will not be a complete step-by-step guide, but will cover the most important parts of the analysis. I will include a link to the template at the very end in case you want to see the report in its entirety.
 
 Thanks for clicking on this/reading, hope the rest of your day/night is swell :).<br>
 
-(For transparency, this Ubuntu setup and phishing challenge/analysis is apart of <a href="https://academy.tcm-sec.com/p/security-operations-soc-101">TCM-Security SOC 101 course</a>. Only the first phishing analysis report is based on a challenge from the SOC101 course- the others are emails I have chosen from <a href="https://phishtank.org/">PhishTank.</a>)
+(For transparency, this Ubuntu setup and phishing challenge/analysis is apart of <a href="https://academy.tcm-sec.com/p/security-operations-soc-101">TCM-Security SOC 101 course</a>.)
 
 ## Tools Used
 * **Sublime Text**
@@ -34,9 +34,8 @@ The two screenshots below are regarding the defanged url from above being put in
 <img width="600" alt="pa-challenge-virustotal" src="https://github.com/user-attachments/assets/49930dde-be68-4584-a178-d92274e58cc6">
 <img width="600" alt="pa-challenge-urlscan" src="https://github.com/user-attachments/assets/126375d1-05ac-4d89-808e-bf4d31cf6c0f"><br>
 
-## Reports
-* <a href="https://docs.google.com/document/d/1Kml8LcMpSTAxR9_Y4GtJFYlPo5lFweDeqgi1Cjr3L0A/edit">**First Report** (TCM Challenge)</a>
-* **Second Report** (PhishTank)
-* **Third Report** (PhishTank)
+## Complete Report
+* <a href="https://docs.google.com/document/d/1Kml8LcMpSTAxR9_Y4GtJFYlPo5lFweDeqgi1Cjr3L0A/edit">**Report** (TCM Challenge)</a>
+
 
 
